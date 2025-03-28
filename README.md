@@ -1,24 +1,19 @@
-👋 Hi there, I'm @EsezaKironde!
-🧬 Data Scientist by Day, Brain Explorer by Night
-I'm a biostatistician-in-training who's passionate about using data to decode the mysteries of human health. Think of me as a detective who uses Python, R, and SAS instead of a magnifying glass!
+Hi! I'm @EsezaKironde!
+Data Scientist | Biostatistician
+Turning healthcare data into insights that matter. I work with Python, R, and SAS to solve health-related puzzles.
+🔬 Currently working on:
 
-👀 What Gets Me Excited?
-Turning complex healthcare data into actionable insights that actually help people and making machine learning algorithms that can predict healthcare behaviors (because who doesn't love a good crystal ball?)
+Advanced survival analysis
+Neural networks with TensorFlow/PyTorch
 
-🌱 Currently Growing
--Deep diving into advanced survival analysis techniques
--Exploring the fascinating world of neural networks with TensorFlow/PyTorch
+🤝 Let's collaborate on:
 
-💞️ Let's Collaborate On
--Healthcare analytics projects that make a real impact
--Creative ways to make complex statistical concepts more accessible
--Anything involving machine learning in public health!
+Healthcare analytics with real impact
+Making stats less intimidating
+ML projects in public health
 
-😄 Pronouns
-She/Her
-
-"In data we trust, but first we clean it!" - My daily mantra
-
+💁‍♀️ She/Her
+"In data we trust, but first we clean it!" 🧹✨
 
 <!---
 EsezaKironde/EsezaKironde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
